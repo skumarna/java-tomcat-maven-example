@@ -5,4 +5,5 @@
 <web-app>
 	<display-name>Archetype Created Web Application</display-name>
 	<display-name>Custom Code</display-name>
+	<display-name>Custom Code First</display-name>
 </web-app>
